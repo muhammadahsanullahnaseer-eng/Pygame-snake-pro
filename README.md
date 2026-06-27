@@ -15,6 +15,9 @@ Retro Snake Game built with Python &amp; Pygame | Levels, speed scaling, and smo
 - python
 - pygame
 
+### Purpose
+modern take on the classic Snake arcade game built with Python and Pygame. It’s designed to demonstrate clean game logic, level progression, and polished UI in a single-file project. The game gets faster and scores higher as you level up, with rounded graphics, dual controls, and a high-score system to make it feel more complete than the basic tutorial version
+
 ### Author
 Muhammad Ahsan ullah Naseer
 

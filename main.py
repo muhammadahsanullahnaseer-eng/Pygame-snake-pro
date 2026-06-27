@@ -172,6 +172,3 @@ def main():
 
 if __name__ == "__main__":
     main()
- ̶ ̶ ̶ ̶ ̶ ̶
-This is code of my project 
-Give me a description line for my GitHub repository
